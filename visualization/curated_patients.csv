@@ -1,0 +1,827 @@
+,X,probability,risk,factor
+45,44,0.487675882,Low Risk,Sodium Levels
+46,45,0.984603639,High Risk,0.9% Sodium Chloride
+50,49,0.67160567,Low Risk,Systolic Blood Pressure
+51,50,0.789204614,Medium Risk,Norepinephrine
+53,52,0.710823579,Medium Risk,Diastolic Blood Pressure
+55,54,0.338302126,Low Risk,Subcutaneous Infection
+57,56,0.266402239,Lowest Risk,Insulin Human Regular
+64,63,0.256682626,Lowest Risk,Levofloxacin
+67,66,0.673909487,Low Risk,Systolic Blood Pressure
+86,85,0.441407353,Low Risk,Levofloxacin
+89,88,0.264672355,Lowest Risk,0.9% Sodium Chloride
+95,94,0.694025173,Low Risk,Cutaneous Infection
+97,96,0.29291059,Lowest Risk,Central Line Placement
+101,100,0.76205637,Medium Risk,Subcutaneous Infection
+102,101,0.295243019,Lowest Risk,Thoracic Infection
+106,105,0.271692241,Lowest Risk,Insulin Human Regular
+109,108,0.296026724,Lowest Risk,Central Line Placement
+111,110,0.577891276,Low Risk,Thoracic Infection
+112,111,0.308773046,Low Risk,Transferred From Hospital
+115,114,0.711201161,Medium Risk,Central Line Placement
+117,116,0.254790655,Lowest Risk,Ketorolac
+121,120,0.317427796,Low Risk,Levofloxacin
+122,121,0.266413866,Lowest Risk,Transferred From Hospital
+125,124,0.359357687,Low Risk,Subcutaneous Infection
+214,213,0.646391628,Low Risk,Levofloxacin
+232,231,0.30156564,Low Risk,Lisinopril
+238,237,0.808372337,Medium Risk,Central Line Placement
+239,238,0.977795041,High Risk,Diastolic Blood Pressure
+240,239,0.414518239,Low Risk,Sodium Levels
+246,245,0.655476385,Low Risk,Lisinopril
+257,256,0.562261661,Low Risk,Systolic Blood Pressure
+258,257,0.411410329,Low Risk,Transferred From Hospital
+266,265,0.358132129,Low Risk,Sodium Levels
+321,320,0.497770694,Low Risk,Lisinopril
+324,323,0.974829809,High Risk,Sodium Levels
+344,343,0.692746363,Low Risk,Cutaneous Infection
+366,365,0.999749492,High Risk,Thoracic Infection
+410,409,0.97373855,High Risk,Systolic Blood Pressure
+462,461,0.494512633,Low Risk,Levofloxacin
+552,551,0.302305321,Low Risk,Sodium Levels
+579,578,0.30978253,Low Risk,0.9% Sodium Chloride
+593,592,0.484515257,Low Risk,Systolic Blood Pressure
+599,598,0.314731379,Low Risk,Norepinephrine
+624,623,0.597722592,Low Risk,Diastolic Blood Pressure
+640,639,0.336091932,Low Risk,Subcutaneous Infection
+684,683,0.293420788,Lowest Risk,Insulin Human Regular
+687,686,0.499856719,Low Risk,Levofloxacin
+689,688,0.630881252,Low Risk,Systolic Blood Pressure
+692,691,0.704323288,Medium Risk,Levofloxacin
+713,712,0.59914867,Low Risk,0.9% Sodium Chloride
+727,726,0.665785812,Low Risk,Cutaneous Infection
+788,787,0.29005419,Lowest Risk,Central Line Placement
+914,913,0.619810163,Low Risk,Subcutaneous Infection
+957,956,0.551423212,Low Risk,Thoracic Infection
+1018,1017,0.26198288,Lowest Risk,Insulin Human Regular
+1266,1265,0.996684795,High Risk,Central Line Placement
+1267,1266,0.974136986,High Risk,Thoracic Infection
+1268,1267,0.755699359,Medium Risk,Transferred From Hospital
+1269,1268,0.984500929,High Risk,Central Line Placement
+1270,1269,0.64858006,Low Risk,Ketorolac
+1271,1270,0.663743159,Low Risk,Levofloxacin
+1273,1272,0.495947175,Low Risk,Transferred From Hospital
+1274,1273,0.856656401,Medium Risk,Subcutaneous Infection
+1275,1274,0.998955632,High Risk,Levofloxacin
+1276,1275,0.998269126,High Risk,Lisinopril
+1277,1276,0.336155152,Low Risk,Central Line Placement
+1278,1277,0.997443002,High Risk,Diastolic Blood Pressure
+1279,1278,0.881623784,Medium Risk,Sodium Levels
+1280,1279,0.99772909,High Risk,Lisinopril
+1281,1280,0.773220139,Medium Risk,Systolic Blood Pressure
+1283,1282,0.909767581,Medium Risk,Transferred From Hospital
+1285,1284,0.814108436,Medium Risk,Sodium Levels
+1289,1288,0.543756363,Low Risk,Lisinopril
+1291,1290,0.482541138,Low Risk,Sodium Levels
+1292,1291,0.328778918,Low Risk,Cutaneous Infection
+1293,1292,0.284960295,Lowest Risk,Thoracic Infection
+1297,1296,0.444367397,Low Risk,Systolic Blood Pressure
+1298,1297,0.673724565,Low Risk,Levofloxacin
+1305,1304,0.833324055,Medium Risk,Sodium Levels
+1306,1305,0.286677035,Lowest Risk,0.9% Sodium Chloride
+1307,1306,0.71390393,Medium Risk,Systolic Blood Pressure
+1308,1307,0.475319165,Low Risk,Norepinephrine
+1310,1309,0.853866764,Medium Risk,Diastolic Blood Pressure
+1312,1311,0.867328153,Medium Risk,Subcutaneous Infection
+1313,1312,0.917205697,Medium Risk,Insulin Human Regular
+1315,1314,0.622477393,Low Risk,Levofloxacin
+1317,1316,0.509784175,Low Risk,Systolic Blood Pressure
+1318,1317,0.934678266,Medium Risk,Levofloxacin
+1320,1319,0.368514671,Low Risk,0.9% Sodium Chloride
+1326,1325,0.292819783,Lowest Risk,Cutaneous Infection
+1328,1327,0.799248602,Medium Risk,Central Line Placement
+1329,1328,0.376661124,Low Risk,Subcutaneous Infection
+1330,1329,0.846700292,Medium Risk,Thoracic Infection
+1331,1330,0.996930736,High Risk,Insulin Human Regular
+1332,1331,0.296869594,Lowest Risk,Central Line Placement
+1333,1332,0.555490653,Low Risk,Thoracic Infection
+1334,1333,0.892916768,Medium Risk,Transferred From Hospital
+1335,1334,0.474532564,Low Risk,Central Line Placement
+1336,1335,0.901404338,Medium Risk,Ketorolac
+1337,1336,0.435702876,Low Risk,Levofloxacin
+1338,1337,0.994455218,High Risk,Transferred From Hospital
+1339,1338,0.255977242,Lowest Risk,Subcutaneous Infection
+1340,1339,0.642526625,Low Risk,Levofloxacin
+1341,1340,0.482208395,Low Risk,Lisinopril
+1344,1343,0.51102485,Low Risk,Central Line Placement
+1345,1344,0.656559019,Low Risk,Diastolic Blood Pressure
+1347,1346,0.575752379,Low Risk,Sodium Levels
+1350,1349,0.832369114,Medium Risk,Lisinopril
+1352,1351,0.318434129,Low Risk,Systolic Blood Pressure
+1354,1353,0.370500052,Low Risk,Transferred From Hospital
+1356,1355,0.465090417,Low Risk,Sodium Levels
+1361,1360,0.860642862,Medium Risk,Lisinopril
+1368,1367,0.999724037,High Risk,Sodium Levels
+1418,1417,0.322014152,Low Risk,Cutaneous Infection
+1419,1418,0.372024993,Low Risk,Thoracic Infection
+1421,1420,0.414881603,Low Risk,Systolic Blood Pressure
+1422,1421,0.750639963,Medium Risk,Levofloxacin
+1423,1422,0.889740075,Medium Risk,Sodium Levels
+1424,1423,0.874395148,Medium Risk,0.9% Sodium Chloride
+1425,1424,0.552322629,Low Risk,Systolic Blood Pressure
+1430,1429,0.980409907,High Risk,Norepinephrine
+1440,1439,0.5759151,Low Risk,Diastolic Blood Pressure
+1460,1459,0.520299066,Low Risk,Subcutaneous Infection
+1468,1467,0.366274308,Low Risk,Insulin Human Regular
+1472,1471,0.301803937,Low Risk,Levofloxacin
+1477,1476,0.826581083,Medium Risk,Systolic Blood Pressure
+1526,1525,0.587585248,Low Risk,Levofloxacin
+1560,1559,0.7450142,Medium Risk,0.9% Sodium Chloride
+1563,1562,0.561296038,Low Risk,Cutaneous Infection
+1566,1565,0.42393862,Low Risk,Central Line Placement
+1577,1576,0.419018359,Low Risk,Subcutaneous Infection
+1587,1586,0.257181214,Lowest Risk,Thoracic Infection
+1602,1601,0.357961349,Low Risk,Insulin Human Regular
+1604,1603,0.929438919,Medium Risk,Central Line Placement
+1605,1604,0.715590634,Medium Risk,Thoracic Infection
+1607,1606,0.579305994,Low Risk,Transferred From Hospital
+1608,1607,0.313167336,Low Risk,Central Line Placement
+1636,1635,0.387332028,Low Risk,Ketorolac
+1649,1648,0.491142392,Low Risk,Levofloxacin
+1736,1735,0.504597308,Low Risk,Transferred From Hospital
+1750,1749,0.391406829,Low Risk,Subcutaneous Infection
+1758,1757,0.529381575,Low Risk,Levofloxacin
+1765,1764,0.380970272,Low Risk,Lisinopril
+1821,1820,0.627536232,Low Risk,Central Line Placement
+1846,1845,0.439930063,Low Risk,Diastolic Blood Pressure
+1847,1846,0.985652698,High Risk,Sodium Levels
+1850,1849,0.349020356,Low Risk,Lisinopril
+1863,1862,0.306620001,Low Risk,Systolic Blood Pressure
+1899,1898,0.414399545,Low Risk,Transferred From Hospital
+1937,1936,0.391685324,Low Risk,Sodium Levels
+1938,1937,0.338830603,Low Risk,Lisinopril
+1950,1949,0.818352266,Medium Risk,Sodium Levels
+1987,1986,0.706919995,Medium Risk,Cutaneous Infection
+2043,2042,0.445522167,Low Risk,Thoracic Infection
+2044,2043,0.453985554,Low Risk,Systolic Blood Pressure
+2047,2046,0.281351835,Lowest Risk,Levofloxacin
+2057,2056,0.363891422,Low Risk,Sodium Levels
+2063,2062,0.298290257,Lowest Risk,0.9% Sodium Chloride
+2089,2088,0.922586929,Medium Risk,Systolic Blood Pressure
+2116,2115,0.309680005,Low Risk,Norepinephrine
+2152,2151,0.303849045,Low Risk,Diastolic Blood Pressure
+2170,2169,0.297921893,Lowest Risk,Subcutaneous Infection
+2201,2200,0.941232983,Medium Risk,Insulin Human Regular
+2221,2220,0.266931749,Lowest Risk,Levofloxacin
+2227,2226,0.730714288,Medium Risk,Systolic Blood Pressure
+2602,2601,0.517146294,Low Risk,Levofloxacin
+2603,2602,0.924018309,Medium Risk,0.9% Sodium Chloride
+2604,2603,0.315050983,Low Risk,Cutaneous Infection
+2606,2605,0.907731141,Medium Risk,Central Line Placement
+2607,2606,0.375953902,Low Risk,Subcutaneous Infection
+2608,2607,0.999732859,High Risk,Thoracic Infection
+2609,2608,0.40172821,Low Risk,Insulin Human Regular
+2610,2609,0.474894061,Low Risk,Central Line Placement
+2611,2610,0.723897053,Medium Risk,Thoracic Infection
+2616,2615,0.818933874,Medium Risk,Transferred From Hospital
+2618,2617,0.468636051,Low Risk,Central Line Placement
+2619,2618,0.978526392,High Risk,Ketorolac
+2620,2619,0.994962158,High Risk,Levofloxacin
+2621,2620,0.827785954,Medium Risk,Transferred From Hospital
+2624,2623,0.872195305,Medium Risk,Subcutaneous Infection
+2628,2627,0.537787606,Low Risk,Levofloxacin
+2629,2628,0.255283111,Lowest Risk,Lisinopril
+2630,2629,0.541641906,Low Risk,Central Line Placement
+2632,2631,0.260602541,Lowest Risk,Diastolic Blood Pressure
+2633,2632,0.98630618,High Risk,Sodium Levels
+2635,2634,0.884022657,Medium Risk,Lisinopril
+2638,2637,0.782882373,Medium Risk,Systolic Blood Pressure
+2639,2638,0.288804807,Lowest Risk,Transferred From Hospital
+2641,2640,0.362262885,Low Risk,Sodium Levels
+2643,2642,0.301883119,Low Risk,Lisinopril
+2644,2643,0.467871527,Low Risk,Sodium Levels
+2645,2644,0.673592887,Low Risk,Cutaneous Infection
+2647,2646,0.879377531,Medium Risk,Thoracic Infection
+2648,2647,0.90148819,Medium Risk,Systolic Blood Pressure
+2650,2649,0.71224992,Medium Risk,Levofloxacin
+2651,2650,0.717312986,Medium Risk,Sodium Levels
+2652,2651,0.985473314,High Risk,0.9% Sodium Chloride
+2655,2654,0.414478506,Low Risk,Systolic Blood Pressure
+2661,2660,0.382527587,Low Risk,Norepinephrine
+2663,2662,0.404918639,Low Risk,Diastolic Blood Pressure
+2665,2664,0.760212161,Medium Risk,Subcutaneous Infection
+2667,2666,0.328333726,Low Risk,Insulin Human Regular
+2669,2668,0.428279317,Low Risk,Levofloxacin
+2671,2670,0.995540876,High Risk,Systolic Blood Pressure
+2673,2672,0.890238778,Medium Risk,Levofloxacin
+2674,2673,0.502637872,Low Risk,0.9% Sodium Chloride
+2679,2678,0.929606639,Medium Risk,Cutaneous Infection
+2685,2684,0.963088136,High Risk,Central Line Placement
+2686,2685,0.805712528,Medium Risk,Subcutaneous Infection
+2689,2688,0.787081279,Medium Risk,Thoracic Infection
+2692,2691,0.938653932,Medium Risk,Insulin Human Regular
+2694,2693,0.75875829,Medium Risk,Central Line Placement
+2696,2695,0.468664313,Low Risk,Thoracic Infection
+2735,2734,0.284244819,Lowest Risk,Transferred From Hospital
+2745,2744,0.254462603,Lowest Risk,Central Line Placement
+2748,2747,0.80072529,Medium Risk,Ketorolac
+2766,2765,0.4871234,Low Risk,Levofloxacin
+2769,2768,0.729949274,Medium Risk,Transferred From Hospital
+2778,2777,0.649293425,Low Risk,Subcutaneous Infection
+2812,2811,0.680411959,Low Risk,Levofloxacin
+2813,2812,0.285511786,Lowest Risk,Lisinopril
+2823,2822,0.84019313,Medium Risk,Central Line Placement
+2836,2835,0.510180728,Low Risk,Diastolic Blood Pressure
+2837,2836,0.304348734,Low Risk,Sodium Levels
+2840,2839,0.292598231,Lowest Risk,Lisinopril
+2855,2854,0.475227203,Low Risk,Systolic Blood Pressure
+2880,2879,0.854944676,Medium Risk,Transferred From Hospital
+2889,2888,0.295524006,Lowest Risk,Sodium Levels
+2897,2896,0.262782099,Lowest Risk,Lisinopril
+2905,2904,0.300398169,Low Risk,Sodium Levels
+2915,2914,0.679827996,Low Risk,Cutaneous Infection
+2952,2951,0.280189189,Lowest Risk,Thoracic Infection
+2955,2954,0.262273201,Lowest Risk,Systolic Blood Pressure
+2968,2967,0.308574948,Low Risk,Levofloxacin
+2993,2992,0.898006202,Medium Risk,Sodium Levels
+3046,3045,0.365774529,Low Risk,0.9% Sodium Chloride
+3066,3065,0.674872992,Low Risk,Systolic Blood Pressure
+3067,3066,0.371217439,Low Risk,Norepinephrine
+3081,3080,0.747816487,Medium Risk,Diastolic Blood Pressure
+3105,3104,0.386040644,Low Risk,Subcutaneous Infection
+3111,3110,0.844465344,Medium Risk,Insulin Human Regular
+3122,3121,0.281911139,Lowest Risk,Levofloxacin
+3190,3189,0.931021707,Medium Risk,Systolic Blood Pressure
+3192,3191,0.399473667,Low Risk,Levofloxacin
+3201,3200,0.356039824,Low Risk,0.9% Sodium Chloride
+3207,3206,0.343377937,Low Risk,Cutaneous Infection
+3238,3237,0.507506741,Low Risk,Central Line Placement
+3274,3273,0.454563185,Low Risk,Subcutaneous Infection
+3288,3287,0.264983892,Lowest Risk,Thoracic Infection
+3306,3305,0.925913147,Medium Risk,Insulin Human Regular
+3324,3323,0.495379998,Low Risk,Central Line Placement
+3341,3340,0.256572001,Lowest Risk,Thoracic Infection
+3354,3353,0.972606307,High Risk,Transferred From Hospital
+3388,3387,0.29336162,Lowest Risk,Central Line Placement
+3440,3439,0.919845058,Medium Risk,Ketorolac
+3441,3440,0.2967916,Lowest Risk,Levofloxacin
+3458,3457,0.34513693,Low Risk,Transferred From Hospital
+3478,3477,0.255415246,Lowest Risk,Subcutaneous Infection
+3496,3495,0.262258674,Lowest Risk,Levofloxacin
+3600,3599,0.404969771,Low Risk,Lisinopril
+3861,3860,0.985168046,High Risk,Central Line Placement
+3862,3861,0.990823537,High Risk,Diastolic Blood Pressure
+3863,3862,0.527255878,Low Risk,Sodium Levels
+3864,3863,0.974596568,High Risk,Lisinopril
+3865,3864,0.47101895,Low Risk,Systolic Blood Pressure
+3866,3865,0.909446046,Medium Risk,Transferred From Hospital
+3867,3866,0.9996214,High Risk,Sodium Levels
+3869,3868,0.841583351,Medium Risk,Lisinopril
+3871,3870,0.44894477,Low Risk,Sodium Levels
+3872,3871,0.994508013,High Risk,Cutaneous Infection
+3873,3872,0.983589305,High Risk,Thoracic Infection
+3874,3873,0.472995631,Low Risk,Systolic Blood Pressure
+3876,3875,0.817779028,Medium Risk,Levofloxacin
+3877,3876,0.960382482,High Risk,Sodium Levels
+3880,3879,0.449397982,Low Risk,0.9% Sodium Chloride
+3881,3880,0.996540609,High Risk,Systolic Blood Pressure
+3886,3885,0.378687062,Low Risk,Norepinephrine
+3889,3888,0.803242439,Medium Risk,Diastolic Blood Pressure
+3891,3890,0.599238973,Low Risk,Subcutaneous Infection
+3892,3891,0.703900965,Medium Risk,Insulin Human Regular
+3893,3892,0.610609718,Low Risk,Levofloxacin
+3896,3895,0.865536043,Medium Risk,Systolic Blood Pressure
+3898,3897,0.99596947,High Risk,Levofloxacin
+3899,3898,0.994735944,High Risk,0.9% Sodium Chloride
+3900,3899,0.372408152,Low Risk,Cutaneous Infection
+3901,3900,0.578876876,Low Risk,Central Line Placement
+3902,3901,0.663721231,Low Risk,Subcutaneous Infection
+3903,3902,0.99930006,High Risk,Thoracic Infection
+3904,3903,0.513349856,Low Risk,Insulin Human Regular
+3906,3905,0.965747889,High Risk,Central Line Placement
+3907,3906,0.961999359,High Risk,Thoracic Infection
+3908,3907,0.406779967,Low Risk,Transferred From Hospital
+3909,3908,0.565193569,Low Risk,Central Line Placement
+3911,3910,0.326748477,Low Risk,Ketorolac
+3914,3913,0.639446014,Low Risk,Levofloxacin
+3915,3914,0.276851918,Lowest Risk,Transferred From Hospital
+3918,3917,0.303097633,Low Risk,Subcutaneous Infection
+3919,3918,0.324662213,Low Risk,Levofloxacin
+3922,3921,0.998325636,High Risk,Lisinopril
+3924,3923,0.995115636,High Risk,Central Line Placement
+3925,3924,0.516130812,Low Risk,Diastolic Blood Pressure
+3926,3925,0.922483777,Medium Risk,Sodium Levels
+3927,3926,0.949770208,Medium Risk,Lisinopril
+3928,3927,0.530295612,Low Risk,Systolic Blood Pressure
+3930,3929,0.949931876,Medium Risk,Transferred From Hospital
+3931,3930,0.608200721,Low Risk,Sodium Levels
+3932,3931,0.444009871,Low Risk,Lisinopril
+3933,3932,0.997001773,High Risk,Sodium Levels
+3934,3933,0.963226787,High Risk,Cutaneous Infection
+3935,3934,0.971657266,High Risk,Thoracic Infection
+3936,3935,0.296347462,Lowest Risk,Systolic Blood Pressure
+3937,3936,0.416452679,Low Risk,Levofloxacin
+3938,3937,0.435920579,Low Risk,Sodium Levels
+3942,3941,0.716918861,Medium Risk,0.9% Sodium Chloride
+3945,3944,0.420414191,Low Risk,Systolic Blood Pressure
+3946,3945,0.766597181,Medium Risk,Norepinephrine
+3957,3956,0.552367469,Low Risk,Diastolic Blood Pressure
+3958,3957,0.6749887,Low Risk,Subcutaneous Infection
+3959,3958,0.555719778,Low Risk,Insulin Human Regular
+3962,3961,0.544224403,Low Risk,Levofloxacin
+3963,3962,0.949921623,Medium Risk,Systolic Blood Pressure
+3965,3964,0.409253865,Low Risk,Levofloxacin
+4004,4003,0.931678209,Medium Risk,0.9% Sodium Chloride
+4005,4004,0.36751878,Low Risk,Cutaneous Infection
+4007,4006,0.332986312,Low Risk,Central Line Placement
+4008,4007,0.434603444,Low Risk,Subcutaneous Infection
+4009,4008,0.965108799,High Risk,Thoracic Infection
+4012,4011,0.613343563,Low Risk,Insulin Human Regular
+4013,4012,0.501662565,Low Risk,Central Line Placement
+4014,4013,0.556017219,Low Risk,Thoracic Infection
+4025,4024,0.507894914,Low Risk,Transferred From Hospital
+4037,4036,0.849196469,Medium Risk,Central Line Placement
+4043,4042,0.354434455,Low Risk,Ketorolac
+4052,4051,0.439188995,Low Risk,Levofloxacin
+4070,4069,0.274268362,Lowest Risk,Transferred From Hospital
+4074,4073,0.588967287,Low Risk,Subcutaneous Infection
+4104,4103,0.268562891,Lowest Risk,Levofloxacin
+4113,4112,0.936034794,Medium Risk,Lisinopril
+4157,4156,0.897710302,Medium Risk,Central Line Placement
+4173,4172,0.996035894,High Risk,Diastolic Blood Pressure
+4190,4189,0.266820298,Lowest Risk,Sodium Levels
+4203,4202,0.998667297,High Risk,Lisinopril
+4205,4204,0.826298459,Medium Risk,Systolic Blood Pressure
+4220,4219,0.978757262,High Risk,Transferred From Hospital
+4223,4222,0.710820699,Medium Risk,Sodium Levels
+4243,4242,0.808644591,Medium Risk,Lisinopril
+4250,4249,0.911835329,Medium Risk,Sodium Levels
+4251,4250,0.504793678,Low Risk,Cutaneous Infection
+4281,4280,0.757073196,Medium Risk,Thoracic Infection
+4284,4283,0.336688332,Low Risk,Systolic Blood Pressure
+4293,4292,0.333567088,Low Risk,Levofloxacin
+4321,4320,0.48952373,Low Risk,Sodium Levels
+4331,4330,0.407110195,Low Risk,0.9% Sodium Chloride
+4371,4370,0.325644223,Low Risk,Systolic Blood Pressure
+4422,4421,0.261287201,Lowest Risk,Norepinephrine
+4458,4457,0.397975838,Low Risk,Diastolic Blood Pressure
+4494,4493,0.259365134,Lowest Risk,Subcutaneous Infection
+4505,4504,0.375902252,Low Risk,Insulin Human Regular
+4514,4513,0.454053815,Low Risk,Levofloxacin
+4593,4592,0.772016613,Medium Risk,Systolic Blood Pressure
+4594,4593,0.380191856,Low Risk,Levofloxacin
+4603,4602,0.968461251,High Risk,0.9% Sodium Chloride
+4644,4643,0.279173742,Lowest Risk,Cutaneous Infection
+4787,4786,0.275589011,Lowest Risk,Central Line Placement
+4848,4847,0.580171073,Low Risk,Subcutaneous Infection
+4854,4853,0.478564092,Low Risk,Thoracic Infection
+4855,4854,0.436604261,Low Risk,Insulin Human Regular
+5163,5162,0.676070384,Low Risk,Central Line Placement
+5164,5163,0.561496647,Low Risk,Thoracic Infection
+5165,5164,0.998951918,High Risk,Transferred From Hospital
+5166,5165,0.505158276,Low Risk,Central Line Placement
+5167,5166,0.992541889,High Risk,Ketorolac
+5168,5167,0.444136996,Low Risk,Levofloxacin
+5169,5168,0.916332835,Medium Risk,Transferred From Hospital
+5170,5169,0.976704775,High Risk,Subcutaneous Infection
+5171,5170,0.943467218,Medium Risk,Levofloxacin
+5172,5171,0.985515791,High Risk,Lisinopril
+5176,5175,0.875070267,Medium Risk,Central Line Placement
+5179,5178,0.828207193,Medium Risk,Diastolic Blood Pressure
+5180,5179,0.999703373,High Risk,Sodium Levels
+5181,5180,0.991512392,High Risk,Lisinopril
+5182,5181,0.969563582,High Risk,Systolic Blood Pressure
+5183,5182,0.822895021,Medium Risk,Transferred From Hospital
+5184,5183,0.965368841,High Risk,Sodium Levels
+5185,5184,0.81523296,Medium Risk,Lisinopril
+5186,5185,0.969482764,High Risk,Sodium Levels
+5188,5187,0.634048256,Low Risk,Cutaneous Infection
+5189,5188,0.717381132,Medium Risk,Thoracic Infection
+5190,5189,0.454656577,Low Risk,Systolic Blood Pressure
+5192,5191,0.383165891,Low Risk,Levofloxacin
+5193,5192,0.474774774,Low Risk,Sodium Levels
+5194,5193,0.32684104,Low Risk,0.9% Sodium Chloride
+5196,5195,0.370864109,Low Risk,Systolic Blood Pressure
+5197,5196,0.906666371,Medium Risk,Norepinephrine
+5199,5198,0.40181033,Low Risk,Diastolic Blood Pressure
+5200,5199,0.62638937,Low Risk,Subcutaneous Infection
+5201,5200,0.412729816,Low Risk,Insulin Human Regular
+5202,5201,0.365812609,Low Risk,Levofloxacin
+5204,5203,0.305771679,Low Risk,Systolic Blood Pressure
+5206,5205,0.977335206,High Risk,Levofloxacin
+5207,5206,0.453418888,Low Risk,0.9% Sodium Chloride
+5209,5208,0.650479505,Low Risk,Cutaneous Infection
+5210,5209,0.974333664,High Risk,Central Line Placement
+5212,5211,0.54251717,Low Risk,Subcutaneous Infection
+5213,5212,0.995251908,High Risk,Thoracic Infection
+5214,5213,0.258643151,Lowest Risk,Insulin Human Regular
+5215,5214,0.797371927,Medium Risk,Central Line Placement
+5216,5215,0.331521315,Low Risk,Thoracic Infection
+5217,5216,0.978727496,High Risk,Transferred From Hospital
+5218,5217,0.412631319,Low Risk,Central Line Placement
+5223,5222,0.954875985,High Risk,Ketorolac
+5224,5223,0.955303747,High Risk,Levofloxacin
+5225,5224,0.629839841,Low Risk,Transferred From Hospital
+5226,5225,0.959988121,High Risk,Subcutaneous Infection
+5228,5227,0.560897737,Low Risk,Levofloxacin
+5230,5229,0.453864008,Low Risk,Lisinopril
+5231,5230,0.997781731,High Risk,Central Line Placement
+5234,5233,0.371700213,Low Risk,Diastolic Blood Pressure
+5236,5235,0.654703569,Low Risk,Sodium Levels
+5238,5237,0.566015801,Low Risk,Lisinopril
+5240,5239,0.591146892,Low Risk,Systolic Blood Pressure
+5241,5240,0.71675286,Medium Risk,Transferred From Hospital
+5242,5241,0.999480945,High Risk,Sodium Levels
+5243,5242,0.591399091,Low Risk,Lisinopril
+5246,5245,0.959431818,High Risk,Sodium Levels
+5247,5246,0.692988124,Low Risk,Cutaneous Infection
+5248,5247,0.665393343,Low Risk,Thoracic Infection
+5249,5248,0.991669341,High Risk,Systolic Blood Pressure
+5253,5252,0.569746225,Low Risk,Levofloxacin
+5256,5255,0.488620939,Low Risk,Sodium Levels
+5258,5257,0.996776462,High Risk,0.9% Sodium Chloride
+5259,5258,0.368399101,Low Risk,Systolic Blood Pressure
+5299,5298,0.664383836,Low Risk,Norepinephrine
+5301,5300,0.478463805,Low Risk,Diastolic Blood Pressure
+5307,5306,0.614161542,Low Risk,Subcutaneous Infection
+5308,5307,0.371799937,Low Risk,Insulin Human Regular
+5310,5309,0.507180072,Low Risk,Levofloxacin
+5312,5311,0.266843019,Lowest Risk,Systolic Blood Pressure
+5318,5317,0.707642534,Medium Risk,Levofloxacin
+5330,5329,0.322326247,Low Risk,0.9% Sodium Chloride
+5340,5339,0.294460898,Lowest Risk,Cutaneous Infection
+5344,5343,0.308255653,Low Risk,Central Line Placement
+5346,5345,0.332531933,Low Risk,Subcutaneous Infection
+5405,5404,0.983388917,High Risk,Thoracic Infection
+5409,5408,0.594684922,Low Risk,Insulin Human Regular
+5434,5433,0.474309785,Low Risk,Central Line Placement
+5468,5467,0.328601506,Low Risk,Thoracic Infection
+5486,5485,0.447152751,Low Risk,Transferred From Hospital
+5494,5493,0.40451322,Low Risk,Central Line Placement
+5503,5502,0.451428721,Low Risk,Ketorolac
+5506,5505,0.705789348,Medium Risk,Levofloxacin
+5525,5524,0.318709812,Low Risk,Transferred From Hospital
+5558,5557,0.362709288,Low Risk,Subcutaneous Infection
+5573,5572,0.708956069,Medium Risk,Levofloxacin
+5578,5577,0.26579963,Lowest Risk,Lisinopril
+5606,5605,0.869260704,Medium Risk,Central Line Placement
+5613,5612,0.422219278,Low Risk,Diastolic Blood Pressure
+5623,5622,0.270341508,Lowest Risk,Sodium Levels
+5627,5626,0.339532717,Low Risk,Lisinopril
+5694,5693,0.404186029,Low Risk,Systolic Blood Pressure
+5717,5716,0.636510515,Low Risk,Transferred From Hospital
+5770,5769,0.341007862,Low Risk,Sodium Levels
+5772,5771,0.547848257,Low Risk,Lisinopril
+5790,5789,0.876166213,Medium Risk,Sodium Levels
+5796,5795,0.318629795,Low Risk,Cutaneous Infection
+5850,5849,0.250819607,Lowest Risk,Thoracic Infection
+5867,5866,0.504880764,Low Risk,Systolic Blood Pressure
+5871,5870,0.464577054,Low Risk,Levofloxacin
+5936,5935,0.541207404,Low Risk,Sodium Levels
+6000,5999,0.278911514,Lowest Risk,0.9% Sodium Chloride
+6005,6004,0.454904134,Low Risk,Systolic Blood Pressure
+6032,6031,0.978946878,High Risk,Norepinephrine
+6091,6090,0.734420026,Medium Risk,Diastolic Blood Pressure
+6130,6129,0.817786676,Medium Risk,Subcutaneous Infection
+6421,6420,0.449265969,Low Risk,Insulin Human Regular
+6422,6421,0.850473945,Medium Risk,Levofloxacin
+6423,6422,0.79185514,Medium Risk,Systolic Blood Pressure
+6424,6423,0.940589639,Medium Risk,Levofloxacin
+6425,6424,0.979683406,High Risk,0.9% Sodium Chloride
+6426,6425,0.91040503,Medium Risk,Cutaneous Infection
+6427,6426,0.468771737,Low Risk,Central Line Placement
+6428,6427,0.944681597,Medium Risk,Subcutaneous Infection
+6430,6429,0.522231143,Low Risk,Thoracic Infection
+6431,6430,0.790108007,Medium Risk,Insulin Human Regular
+6433,6432,0.39011987,Low Risk,Central Line Placement
+6437,6436,0.837696597,Medium Risk,Thoracic Infection
+6438,6437,0.851502874,Medium Risk,Transferred From Hospital
+6439,6438,0.977453638,High Risk,Central Line Placement
+6440,6439,0.548402833,Low Risk,Ketorolac
+6442,6441,0.984753667,High Risk,Levofloxacin
+6443,6442,0.999894843,High Risk,Transferred From Hospital
+6444,6443,0.999141604,High Risk,Subcutaneous Infection
+6445,6444,0.288504349,Lowest Risk,Levofloxacin
+6452,6451,0.54069954,Low Risk,Lisinopril
+6454,6453,0.438366865,Low Risk,Central Line Placement
+6455,6454,0.928649153,Medium Risk,Diastolic Blood Pressure
+6457,6456,0.279281171,Lowest Risk,Sodium Levels
+6458,6457,0.324843155,Low Risk,Lisinopril
+6459,6458,0.997987555,High Risk,Systolic Blood Pressure
+6462,6461,0.315549068,Low Risk,Transferred From Hospital
+6468,6467,0.367792165,Low Risk,Sodium Levels
+6469,6468,0.263439663,Lowest Risk,Lisinopril
+6470,6469,0.962019038,High Risk,Sodium Levels
+6472,6471,0.516006894,Low Risk,Cutaneous Infection
+6474,6473,0.272559295,Lowest Risk,Thoracic Infection
+6476,6475,0.731701177,Medium Risk,Systolic Blood Pressure
+6477,6476,0.372349262,Low Risk,Levofloxacin
+6479,6478,0.66622346,Low Risk,
+6480,6479,0.367667462,Low Risk,
+6481,6480,0.966145154,High Risk,
+6482,6481,0.747346929,Medium Risk,
+6483,6482,0.32341543,Low Risk,
+6484,6483,0.346531919,Low Risk,
+6485,6484,0.926649753,Medium Risk,
+6488,6487,0.891557318,Medium Risk,
+6491,6490,0.267161311,Lowest Risk,
+6492,6491,0.411935891,Low Risk,
+6494,6493,0.683128162,Low Risk,
+6495,6494,0.876051815,Medium Risk,
+6496,6495,0.529930809,Low Risk,
+6497,6496,0.674472485,Low Risk,
+6498,6497,0.507525124,Low Risk,
+6500,6499,0.664300927,Low Risk,
+6501,6500,0.54160703,Low Risk,
+6502,6501,0.735592267,Medium Risk,
+6503,6502,0.459960855,Low Risk,
+6511,6510,0.286940797,Lowest Risk,
+6518,6517,0.309481726,Low Risk,
+6519,6518,0.255436243,Lowest Risk,
+6520,6519,0.289738798,Lowest Risk,
+6574,6573,0.33237423,Low Risk,
+6575,6574,0.988023909,High Risk,
+6584,6583,0.323695344,Low Risk,
+6603,6602,0.274496366,Lowest Risk,
+6608,6607,0.806523959,Medium Risk,
+6612,6611,0.653110341,Low Risk,
+6634,6633,0.852763165,Medium Risk,
+6679,6678,0.536786664,Low Risk,
+6722,6721,0.590536216,Low Risk,
+6729,6728,0.508740334,Low Risk,
+6734,6733,0.473338617,Low Risk,
+6740,6739,0.250369309,Lowest Risk,
+6745,6744,0.258648868,Lowest Risk,
+6759,6758,0.565997657,Low Risk,
+6784,6783,0.662992754,Low Risk,
+6786,6785,0.353125077,Low Risk,
+6853,6852,0.336287997,Low Risk,
+6863,6862,0.299631954,Lowest Risk,
+6889,6888,0.507212195,Low Risk,
+6929,6928,0.7966591,Medium Risk,
+6963,6962,0.57400365,Low Risk,
+6977,6976,0.505575236,Low Risk,
+7028,7027,0.974209917,High Risk,
+7029,7028,0.52573368,Low Risk,
+7030,7029,0.432173412,Low Risk,
+7031,7030,0.377958466,Low Risk,
+7037,7036,0.894670244,Medium Risk,
+7038,7037,0.476767807,Low Risk,
+7057,7056,0.90207935,Medium Risk,
+7077,7076,0.997382258,High Risk,
+7104,7103,0.561251204,Low Risk,
+7105,7104,0.304638946,Low Risk,
+7118,7117,0.255618611,Lowest Risk,
+7119,7118,0.435529008,Low Risk,
+7128,7127,0.583578634,Low Risk,
+7130,7129,0.84749107,Medium Risk,
+7233,7232,0.281167791,Lowest Risk,
+7325,7324,0.755374779,Medium Risk,
+7365,7364,0.268363571,Lowest Risk,
+7660,7659,0.283717473,Lowest Risk,
+7661,7660,0.998928651,High Risk,
+7663,7662,0.568257791,Low Risk,
+7664,7663,0.987543078,High Risk,
+7665,7664,0.957247872,High Risk,
+7666,7665,0.999843995,High Risk,
+7667,7666,0.983465002,High Risk,
+7668,7667,0.775332553,Medium Risk,
+7669,7668,0.998372807,High Risk,
+7670,7669,0.698485346,Low Risk,
+7671,7670,0.495541575,Low Risk,
+7672,7671,0.384912185,Low Risk,
+7673,7672,0.987116681,High Risk,
+7676,7675,0.297173904,Lowest Risk,
+7677,7676,0.814656533,Medium Risk,
+7680,7679,0.531706168,Low Risk,
+7681,7680,0.598677788,Low Risk,
+7682,7681,0.693966533,Low Risk,
+7684,7683,0.954734276,High Risk,
+7685,7684,0.990210918,High Risk,
+7686,7685,0.596646423,Low Risk,
+7687,7686,0.950986483,High Risk,
+7688,7687,0.78323028,Medium Risk,
+7689,7688,0.994742573,High Risk,
+7692,7691,0.977288768,High Risk,
+7694,7693,0.598465786,Low Risk,
+7696,7695,0.451644574,Low Risk,
+7697,7696,0.887571891,Medium Risk,
+7699,7698,0.691534212,Low Risk,
+7702,7701,0.889956139,Medium Risk,
+7703,7702,0.987826177,High Risk,
+7705,7704,0.901545817,Medium Risk,
+7706,7705,0.555538356,Low Risk,
+7707,7706,0.331809083,Low Risk,
+7709,7708,0.690924637,Low Risk,
+7710,7709,0.802085945,Medium Risk,
+7711,7710,0.259533392,Lowest Risk,
+7712,7711,0.997481197,High Risk,
+7714,7713,0.619013916,Low Risk,
+7718,7717,0.916566605,Medium Risk,
+7719,7718,0.853226711,Medium Risk,
+7720,7719,0.462826875,Low Risk,
+7721,7720,0.688793307,Low Risk,
+7722,7721,0.700283821,Medium Risk,
+7723,7722,0.627355229,Low Risk,
+7724,7723,0.999157315,High Risk,
+7726,7725,0.413668881,Low Risk,
+7727,7726,0.915848891,Medium Risk,
+7728,7727,0.77784782,Medium Risk,
+7731,7730,0.934817328,Medium Risk,
+7732,7731,0.649103126,Low Risk,
+7733,7732,0.367074493,Low Risk,
+7734,7733,0.668018575,Low Risk,
+7735,7734,0.566945137,Low Risk,
+7736,7735,0.560433517,Low Risk,
+7737,7736,0.306395555,Low Risk,
+7739,7738,0.980337753,High Risk,
+7740,7739,0.285988646,Lowest Risk,
+7742,7741,0.882512018,Medium Risk,
+7743,7742,0.408047755,Low Risk,
+7744,7743,0.505622505,Low Risk,
+7745,7744,0.701623248,Medium Risk,
+7747,7746,0.26543032,Lowest Risk,
+7755,7754,0.475543644,Low Risk,
+7756,7755,0.274402314,Lowest Risk,
+7804,7803,0.611109973,Low Risk,
+7805,7804,0.46723462,Low Risk,
+7806,7805,0.543646802,Low Risk,
+7809,7808,0.453006921,Low Risk,
+7813,7812,0.852435575,Medium Risk,
+7815,7814,0.561916173,Low Risk,
+7819,7818,0.744542473,Medium Risk,
+7821,7820,0.983873594,High Risk,
+7833,7832,0.997752791,High Risk,
+7834,7833,0.463214233,Low Risk,
+7836,7835,0.993528139,High Risk,
+7841,7840,0.300095993,Low Risk,
+7844,7843,0.407985436,Low Risk,
+7845,7844,0.340406873,Low Risk,
+7846,7845,0.974045162,High Risk,
+7852,7851,0.471889903,Low Risk,
+7856,7855,0.505015025,Low Risk,
+7861,7860,0.690186365,Low Risk,
+7903,7902,0.619744945,Low Risk,
+7925,7924,0.46853443,Low Risk,
+7944,7943,0.354161803,Low Risk,
+7952,7951,0.260871495,Lowest Risk,
+8007,8006,0.459853899,Low Risk,
+8009,8008,0.702141061,Medium Risk,
+8047,8046,0.814565925,Medium Risk,
+8064,8063,0.794967924,Medium Risk,
+8093,8092,0.403202658,Low Risk,
+8111,8110,0.378234471,Low Risk,
+8142,8141,0.808172308,Medium Risk,
+8146,8145,0.296674741,Lowest Risk,
+8167,8166,0.695136583,Low Risk,
+8168,8167,0.624792197,Low Risk,
+8171,8170,0.324939194,Low Risk,
+8180,8179,0.423330846,Low Risk,
+8185,8184,0.322794273,Low Risk,
+8233,8232,0.494120294,Low Risk,
+8240,8239,0.475821765,Low Risk,
+8247,8246,0.866905664,Medium Risk,
+8322,8321,0.409447952,Low Risk,
+8325,8324,0.663511325,Low Risk,
+8327,8326,0.589943364,Low Risk,
+8341,8340,0.442162085,Low Risk,
+8405,8404,0.681900265,Low Risk,
+8435,8434,0.267961863,Lowest Risk,
+8436,8435,0.309411936,Low Risk,
+8446,8445,0.377178378,Low Risk,
+8452,8451,0.567203318,Low Risk,
+8535,8534,0.717978377,Medium Risk,
+8582,8581,0.324769463,Low Risk,
+8603,8602,0.44977542,Low Risk,
+8623,8622,0.369369228,Low Risk,
+8645,8644,0.354974796,Low Risk,
+8654,8653,0.335296169,Low Risk,
+8709,8708,0.300072672,Low Risk,
+8716,8715,0.288465579,Lowest Risk,
+8938,8937,0.596683896,Low Risk,
+8939,8938,0.380066572,Low Risk,
+8940,8939,0.366626441,Low Risk,
+8941,8940,0.997725617,High Risk,
+8942,8941,0.841036222,Medium Risk,
+8943,8942,0.855464977,Medium Risk,
+8944,8943,0.918561468,Medium Risk,
+8945,8944,0.965213295,High Risk,
+8946,8945,0.693428812,Low Risk,
+8949,8948,0.951280528,High Risk,
+8952,8951,0.987324891,High Risk,
+8953,8952,0.440145415,Low Risk,
+8957,8956,0.590089421,Low Risk,
+8959,8958,0.854341661,Medium Risk,
+8963,8962,0.278328167,Lowest Risk,
+8964,8963,0.592932207,Low Risk,
+8965,8964,0.715086292,Medium Risk,
+8966,8965,0.323690504,Low Risk,
+8969,8968,0.702588317,Medium Risk,
+8972,8971,0.998613057,High Risk,
+8977,8976,0.324615796,Low Risk,
+8978,8977,0.539942244,Low Risk,
+8979,8978,0.745873788,Medium Risk,
+8980,8979,0.858702485,Medium Risk,
+8981,8980,0.82287935,Medium Risk,
+8982,8981,0.391547272,Low Risk,
+8983,8982,0.714570746,Medium Risk,
+8984,8983,0.341895812,Low Risk,
+8986,8985,0.461597,Low Risk,
+8987,8986,0.923375513,Medium Risk,
+8988,8987,0.968343999,High Risk,
+8989,8988,0.629906352,Low Risk,
+8991,8990,0.397228111,Low Risk,
+8992,8991,0.883489065,Medium Risk,
+8993,8992,0.357252904,Low Risk,
+8994,8993,0.891708452,Medium Risk,
+8995,8994,0.788811924,Medium Risk,
+8996,8995,0.812288277,Medium Risk,
+8997,8996,0.320974027,Low Risk,
+8999,8998,0.991314445,High Risk,
+9000,8999,0.485500802,Low Risk,
+9001,9000,0.451355833,Low Risk,
+9002,9001,0.866145928,Medium Risk,
+9003,9002,0.979283856,High Risk,
+9005,9004,0.99400242,High Risk,
+9008,9007,0.838450666,Medium Risk,
+9012,9011,0.969670008,High Risk,
+9014,9013,0.635245855,Low Risk,
+9016,9015,0.76097736,Medium Risk,
+9020,9019,0.629998139,Low Risk,
+9060,9059,0.785396758,Medium Risk,
+9063,9062,0.365818915,Low Risk,
+9064,9063,0.334243568,Low Risk,
+9085,9084,0.409399341,Low Risk,
+9091,9090,0.259665813,Lowest Risk,
+9101,9100,0.437050871,Low Risk,
+9105,9104,0.419134336,Low Risk,
+9113,9112,0.308110917,Low Risk,
+9117,9116,0.771860966,Medium Risk,
+9149,9148,0.512696641,Low Risk,
+9168,9167,0.362367191,Low Risk,
+9171,9170,0.837844934,Medium Risk,
+9223,9222,0.526705711,Low Risk,
+9226,9225,0.290611466,Lowest Risk,
+9266,9265,0.80296249,Medium Risk,
+9270,9269,0.393030216,Low Risk,
+9280,9279,0.497633961,Low Risk,
+9294,9293,0.748587774,Medium Risk,
+9299,9298,0.898994256,Medium Risk,
+9345,9344,0.987444801,High Risk,
+9357,9356,0.551075842,Low Risk,
+9377,9376,0.317658202,Low Risk,
+9394,9393,0.461097548,Low Risk,
+9396,9395,0.303345576,Low Risk,
+9407,9406,0.998904097,High Risk,
+9408,9407,0.265725536,Lowest Risk,
+9471,9470,0.803498037,Medium Risk,
+9496,9495,0.871254873,Medium Risk,
+9512,9511,0.406379281,Low Risk,
+9535,9534,0.284094838,Lowest Risk,
+9588,9587,0.250803101,Lowest Risk,
+9674,9673,0.448311476,Low Risk,
+9678,9677,0.917706584,Medium Risk,
+9687,9686,0.925041424,Medium Risk,
+9695,9694,0.972700161,High Risk,
+9736,9735,0.642336821,Low Risk,
+9748,9747,0.43331151,Low Risk,
+10038,10037,0.335392973,Low Risk,
+10039,10038,0.879892902,Medium Risk,
+10040,10039,0.823786947,Medium Risk,
+10041,10040,0.286791695,Lowest Risk,
+10042,10041,0.760181284,Medium Risk,
+10043,10042,0.498345244,Low Risk,
+10044,10043,0.499287387,Low Risk,
+10045,10044,0.576195008,Low Risk,
+10046,10045,0.320230939,Low Risk,
+10047,10046,0.267790729,Lowest Risk,
+10048,10047,0.742324376,Medium Risk,
+10052,10051,0.39000327,Low Risk,
+10053,10052,0.985100715,High Risk,
+10054,10053,0.981011993,High Risk,
+10055,10054,0.979120603,High Risk,
+10058,10057,0.373904954,Low Risk,
+10059,10058,0.817628124,Medium Risk,
+10062,10061,0.567266485,Low Risk,
+10064,10063,0.873063035,Medium Risk,
+10066,10065,0.876355957,Medium Risk,
+10067,10066,0.991405149,High Risk,
+10068,10067,0.836320196,Medium Risk,
+10069,10068,0.353410796,Low Risk,
+10070,10069,0.266017158,Lowest Risk,
+10071,10070,0.587222966,Low Risk,
+10072,10071,0.846247131,Medium Risk,
+10075,10074,0.518682782,Low Risk,
+10076,10075,0.357265106,Low Risk,
+10079,10078,0.994962659,High Risk,
+10081,10080,0.847593705,Medium Risk,
+10082,10081,0.496485072,Low Risk,
+10085,10084,0.420693747,Low Risk,
+10086,10085,0.573777277,Low Risk,
+10088,10087,0.543426279,Low Risk,
+10089,10088,0.762903022,Medium Risk,
+10090,10089,0.803772719,Medium Risk,
+10093,10092,0.806285691,Medium Risk,
+10094,10093,0.985248154,High Risk,
+10095,10094,0.612765208,Low Risk,
+10096,10095,0.927104097,Medium Risk,
+10097,10096,0.320012484,Low Risk,
+10100,10099,0.878073232,Medium Risk,
+10106,10105,0.999025857,High Risk,
+10107,10106,0.67966356,Low Risk,
+10108,10107,0.67743841,Low Risk,
+10109,10108,0.673413277,Low Risk,
+10113,10112,0.461289176,Low Risk,
+10114,10113,0.927716406,Medium Risk,
+10116,10115,0.269616518,Lowest Risk,
+10117,10116,0.764906604,Medium Risk,
