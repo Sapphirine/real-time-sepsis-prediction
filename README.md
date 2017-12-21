@@ -69,5 +69,5 @@ Our classification experiments are stored in `Classification.ipynb`. We experime
 
 ## Visualization for clinicians
 
-### visualization/interactive_visualization
+### visualization/interactive_visualization.R
 This R script uses the ggplot2 and plotly packages to create an interactive visualiation of results from our model.
