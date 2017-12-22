@@ -1,5 +1,6 @@
 # real-time-sepsis-prediction
-E6893 Final Project for egm2143, djf2150, and kr2741
+E6893 Big Data Analytics Final Project for egm2143, djf2150, and kr2741
+Project ID : 201712-3
 
 ## Environment
 Our development environment was an Amazon Web Services EMR cluster configured with Hadoop, Spark, and Jupyter Notebooks server, as described in this blog post: 
